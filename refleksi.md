@@ -1,0 +1,7 @@
+# Refleksi Eksplorasi Platform dan Setup Environment
+
+Platform yang paling menarik bagi saya untuk dipelajari adalah platform Mobile. Menurut saya, aplikasi mobile sangat bermanfaat karena dapat digunakan melalui smartphone untuk membantu berbagai aktivitas sehari-hari. Selain itu, aplikasi mobile memiliki fitur seperti kamera, GPS, dan notifikasi yang dapat mendukung kebutuhan pengguna.
+
+Tantangan terbesar saat melakukan setup environment adalah menginstal dan mengonfigurasi perangkat lunak, seperti Git, Node.js, NPM, Visual Studio Code, dan Java JDK. Saya juga mengalami kesulitan saat menggunakan perintah Git untuk mengunggah file ke GitHub. Namun, dengan mengikuti petunjuk yang diberikan, saya akhirnya berhasil membuat repository dan mengunggah file tugas.
+
+Untuk mengatasi tantangan tersebut, saya akan mempelajari dokumentasi resmi, mengikuti tutorial, dan berlatih menggunakan terminal secara bertahap. Jika mengalami kesalahan, saya akan membaca pesan error dan mencari solusinya. Saya juga akan terus berlatih menggunakan GitHub agar lebih memahami pengelolaan kode program. Dengan demikian, saya berharap dapat meningkatkan kemampuan pemrograman dan menyelesaikan tugas berikutnya dengan lebih baik.
